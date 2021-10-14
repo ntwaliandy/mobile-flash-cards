@@ -20,7 +20,7 @@ yarn start
 
 then you can scan the QR code with your smart phone to use the app or you can run it with the web option.
 
-this app has being tested in the following devices (iphone 7 plus, iphone X, ipad pro)
+this app has being tested in the following devices (iphone 7 plus, iphone X, ipad pro, samsung s9+)
 
 ## Contributing
 
@@ -35,4 +35,4 @@ Please make sure to update tests as appropriate.
 
 # Author
 
-Gary Vladimir Núñez López
+Ntwali Andrew
